@@ -1,0 +1,3 @@
+The data is scraped from Sri Lanka's most famous online vehicle buying selling platform: Ikman.lk. The Credit for all the information goes to Ikman.
+
+Jayawardena, Lasal. (2021). Sri Lanka Vehicle Prices Dataset. DOI: 10.13140/RG.2.2.35445.09448/1.
